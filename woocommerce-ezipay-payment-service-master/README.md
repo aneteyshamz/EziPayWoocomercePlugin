@@ -1,14 +1,14 @@
-<img src="https://www.Ezipayonline.com/assets/img/Ezipay-logo.png" data-canonical-src="https://www.Ezipayonline.com/assets/img/Ezipay-logo.png" width="200" height="80" />
+<img src="https://www.Ezipaygh.com/assets/img/Ezipay-logo.png" data-canonical-src="https://www.Ezipaygh.com/assets/img/Ezipay-logo.png" width="200" height="80" />
 
-[![GitHub version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0&x2=0)](https://github.com/wigalsolutionsltd/woocommerce-Ezipay-payment-service)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/wigalsolutionsltd/woocommerce-Ezipay-payment-service)
+[![GitHub version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0&x2=0)](https://github.com/aneteyshamz/woocommerce-Ezipay-payment-service)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/aneteyshamz/woocommerce-Ezipay-payment-service)
 [![made-with-php](https://img.shields.io/badge/Made%20with-PHP-1f425f.svg)](https://www.php.net/)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/wigalsolutionsltd/woocommerce-Ezipay-payment-service)
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://www.Ezipayonline.com/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/aneteyshamz/woocommerce-Ezipay-payment-service)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://www.Ezipaygh.com/)
 ---------------------------------------------------------------------------
 ---------------------------------------------------------------------------
 # Ezipay Payment Service Woocommerce Plugin
-A WooCommerce plugin made for accepting any payment from customers by Wigal Solutions.
+A WooCommerce plugin made for accepting any payment from customers by AI Technologies.
 
 Before you can use our plugin you need to register and create an [Account](https://ezipaygh.com). This will allow you to have access to your API Key and APP ID which will be used in setting up the plugin on Woocommerce.
 
